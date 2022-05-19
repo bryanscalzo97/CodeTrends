@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "627d4239f474a373cd195297"
+  },
+  "nombre": "NodeJs",
+  "descripcion": "Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.",
+  "categoria": {
+    "$oid": "627d42edf474a373cd1952a0"
+  },
+  "comentarios": [
+    {
+      "_id": {
+        "$oid": "62813de4289cce2a46afc89f"
+      },
+      "comentario": "Este es mi primer comentario",
+      "usuario": "usuario1"
+    },
+    {
+      "_id": {
+        "$oid": "62813e6c289cce2a46afc8a0"
+      },
+      "comentario": "Este es mi segundo comentario",
+      "usuario": "usuario1"
+    },
+    {
+      "comentario": "aaaaaaaaaaa",
+      "usuario": "usuario1"
+    },
+    {
+      "_id": {
+        "$oid": "6283e12f8e24491918d660dc"
+      },
+      "comentario": "qqqqqqqqq",
+      "usuario": "anonimo"
+    },
+    {
+      "_id": {
+        "$oid": "6283e1cb07bfdf86476afd74"
+      },
+      "comentario": "qqqqqqqqq",
+      "usuario": "anonimo"
+    },
+    {
+      "_id": {
+        "$oid": "6283e968a1860f0ffb8ab2a5"
+      },
+      "comentario": "qwerty",
+      "usuario": "anonimo"
+    },
+    {
+      "_id": {
+        "$oid": "6286442f3056d172c72a4bb1"
+      },
+      "comentario": "comentario-desde-la-api",
+      "usuario": "anonimo"
+    },
+    {
+      "_id": {
+        "$oid": "62867a1483b8be42f76e13c5"
+      },
+      "comentario": "kjkj",
+      "usuario": "anonimo"
+    },
+    {
+      "_id": {
+        "$oid": "6286a80089601573675108c4"
+      },
+      "comentario": "qwerty",
+      "usuario": "anonimo"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "627d4239f474a373cd195298"
+  },
+  "nombre": "ReactJs",
+  "descripcion": "React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página.",
+  "categoria": {
+    "$oid": "627d42edf474a373cd1952a0"
+  }
+}]

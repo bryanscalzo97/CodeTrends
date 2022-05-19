@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "627d42edf474a373cd1952a0"
+  },
+  "nombre": "frontend"
+},{
+  "_id": {
+    "$oid": "627d42edf474a373cd1952a1"
+  },
+  "nombre": "backend"
+},{
+  "_id": {
+    "$oid": "627d42edf474a373cd1952a2"
+  },
+  "nombre": "diseño"
+},{
+  "_id": {
+    "$oid": "628543c0a71a62ef33d53fae"
+  },
+  "nombre": "nuevaCategoria"
+}]
