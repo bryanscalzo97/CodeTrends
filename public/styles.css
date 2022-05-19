@@ -1,0 +1,49 @@
+body {
+    background-color: red;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: darkblue;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+
+}
+
+.header h1 {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.footer {
+    background-color: darkblue;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.comentario {
+    background-color: gainsboro;
+    margin-top: 1em;
+    border-radius: 5px;
+    padding: 1em;
+}
