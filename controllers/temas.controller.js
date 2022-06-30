@@ -9,6 +9,7 @@ function viewAll (req, res) {
 
 function viewOne (req, res) {
   const id = req.query.id
+  // todo: recibir por params nombre y buscarlo por el nombre
   TemasModel.findByID(id)
     .then(function (tema) {
       if (tema.comentarios !== undefined) { res.render('tema', { tema }) } else { res.send('Este tema no tiene comentarios') };

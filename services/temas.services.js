@@ -12,6 +12,8 @@ async function findByID (id) {
   return conexion(async function (db) {
     const tema = await db.collection('temas').find({ _id: ObjectId(id) }).toArray()
     return tema[0]
+    // TODO:
+    // traer categorias referenciadas
   })
 }
 
